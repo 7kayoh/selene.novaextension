@@ -18,7 +18,7 @@
 
     "license": "BSD 2-clause",
 
-    "bugs": "https://github.com/7kayoh/selene-nova/issues",
-    "homepage": "https://github.com/7kayoh/selene-nova",
-    "repository": "https://github.com/7kayoh/selene-nova"
+    "bugs": "https://github.com/7kayoh/selene.novaextension/issues",
+    "homepage": "https://github.com/7kayoh/selene.novaextension",
+    "repository": "https://github.com/7kayoh/selene.novaextension"
 }
