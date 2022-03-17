@@ -1,0 +1,24 @@
+{
+    "identifier": "net.7kayoh.selene",
+    "name": "Selene",
+    "organization": "7kayoh",
+    "description": "Selene Linter in Nova",
+    "version": "0.1.0",
+    "categories": ["issues"],
+
+    "main": "main.js",
+
+    "activationEvents": [
+        "onLanguage:lua"
+    ],
+
+    "entitlements": {
+        "process": true
+    },
+
+    "license": "BSD 2-clause",
+
+    "bugs": "https://github.com/7kayoh/selene-nova/issues",
+    "homepage": "https://github.com/7kayoh/selene-nova",
+    "repository": "https://github.com/7kayoh/selene-nova"
+}
